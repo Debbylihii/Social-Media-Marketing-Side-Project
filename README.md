@@ -1,7 +1,7 @@
 # Social-Media-Marketing-side-project
 # 社群行銷轉換分析：貼文類型與報名成效的關聯探索
 
-> **[點此查看專案總覽]（https://github.com/Debbylihii/Social-Media-Marketing-Side-Project/blob/63365c1b25e5efd64464594b9d839aa440c14f29/%E5%88%86%E6%9E%90%E7%B8%BD%E8%A6%BD.png）**
+![點此查看專案總覽]（分析總覽.png）**
 
 ## 專案架構
 ```
